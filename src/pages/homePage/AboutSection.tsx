@@ -50,7 +50,7 @@ export default function AboutSection() {
         <div className="relative w-full max-w-3xl aspect-video rounded-lg overflow-hidden shadow-lg">
           <iframe
             className="absolute top-0 left-0 w-full h-full"
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1&loop=1&playlist=dQw4w9WgXcQ"
+            src="https://www.youtube.com/embed/orK7sPdOk2s?si=B1cASvgcwxrAjdPk"
             title="Tutoriel"
             allow="autoplay"
             allowFullScreen
